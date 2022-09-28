@@ -167,7 +167,7 @@
     {
       "id": 1,
       "name": "楽子",
-      "email": "rakus@sumple.com",
+      "email": "rakus@example.com",
       "password": "rakus00",
       "zipcode": "123-4567",
       "address": "東京",
@@ -177,7 +177,7 @@
     {
       "id": 2,
       "name": "楽男",
-      "email": "rakus2@sumple.com",
+      "email": "rakus2@example.com",
       "password": "raku0000",
       "zipcode": "123-4567",
       "address": "東京",
@@ -187,7 +187,7 @@
     {
       "id": 3,
       "name": "楽",
-      "email": "rakus3@sumple.com",
+      "email": "rakus3@example.com",
       "password": "raku0000",
       "zipcode": "123-4567",
       "address": "東京",
@@ -544,7 +544,7 @@
       "totalPrice": 2500,
       "orderDate": "2022-09-08T07:24:28.306Z",
       "distenationName": "楽子",
-      "distenationEmail": "rakus@sumple.com",
+      "distenationEmail": "rakus@example.com",
       "distenationZipcode": "123-4567",
       "distenationAddress": "東京",
       "distenationTel": "090-1234-5678",
@@ -553,7 +553,7 @@
       "user": {
         "id": 1,
         "name": "楽子",
-        "email": "rakus@sumple.com",
+        "email": "rakus@example.com",
         "password": "rakus00",
         "zipcode": "123-456",
         "address": "東京",
